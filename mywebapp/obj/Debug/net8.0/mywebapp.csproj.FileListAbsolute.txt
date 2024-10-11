@@ -23,3 +23,29 @@
 /Users/mehmetaliozer/Documents/garage/mywebapp/obj/Debug/net8.0/mywebapp.pdb
 /Users/mehmetaliozer/Documents/garage/mywebapp/obj/Debug/net8.0/mywebapp.genruntimeconfig.cache
 /Users/mehmetaliozer/Documents/garage/mywebapp/obj/Debug/net8.0/ref/mywebapp.dll
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\appsettings.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\mywebapp.exe
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\mywebapp.deps.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\mywebapp.runtimeconfig.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\mywebapp.dll
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\bin\Debug\net8.0\mywebapp.pdb
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.AssemblyInfoInputs.cache
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.AssemblyInfo.cs
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.csproj.CoreCompileInputs.cache
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.sourcelink.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets\msbuild.mywebapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets\msbuild.build.mywebapp.props
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.mywebapp.props
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.mywebapp.props
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\scopedcss\bundle\mywebapp.styles.css
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.dll
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\refint\mywebapp.dll
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.pdb
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\mywebapp.genruntimeconfig.cache
+C:\Users\Zehra Betül\OneDrive\Masaüstü\selam\mis203-w3-website\mywebapp\obj\Debug\net8.0\ref\mywebapp.dll
